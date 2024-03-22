@@ -1,0 +1,39 @@
+{
+  "name": "dolordolore",
+  "version": "1.12.1",
+  "description": "EVM Networks & Node Providers Parameters Documentation",
+  "author": "EdnaKuhic",
+  "license": "MIT",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/RogelioVolkman/dolordolore.git"
+  },
+  "devDependencies": {
+    "@types/node": "^18.15.11",
+    "@typescript-eslint/eslint-plugin": "^5.57.0",
+    "eslint": "^8.37.0",
+    "eslint-config-prettier": "^8.8.0",
+    "eslint-config-standard-with-typescript": "^34.0.1",
+    "eslint-plugin-import": "^2.27.5",
+    "eslint-plugin-n": "^15.7.0",
+    "eslint-plugin-prettier": "^4.2.1",
+    "eslint-plugin-promise": "^6.1.1",
+    "prettier": "^2.8.7",
+    "prettier-plugin-organize-imports": "^3.2.2",
+    "typescript": "^5.0.3"
+  },
+  "keywords": [
+    "dolor",
+    "ethereum",
+    "maiores",
+    "numquam",
+    "chains",
+    "quam",
+    "delectus"
+  ],
+  "dependencies": {
+    "voluptatesqui": "^1.0.0"
+  }
+}
